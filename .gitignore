@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
+build/
+coverage/
+*.log
+client/node_modules/
+server/node_modules/
